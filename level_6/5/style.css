@@ -26,7 +26,12 @@ ul.store li {
 }
 
 .store li {
-  height: 150px;
+  height: auto;
   width: 150px;
   overflow: hidden;
+}
+
+.store li img {
+  height: auto;
+  width: 150px;
 }
